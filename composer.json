@@ -1,0 +1,10 @@
+{
+    "name": "dcopher/demopackage1",
+    "authors": [
+        {
+            "name": "Daniel Copher",
+            "email": "daniel.c@digitalroominc.com"
+        }
+    ],
+    "require": {}
+}
